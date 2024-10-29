@@ -9,7 +9,7 @@ function Home() {
     <div className='mx-auto max-w-[1280px] px-5 w-full'>
 
         <div className='flex flex-wrap items-center justify-between gap-y-4'>
-          {data.map(item =>  <CustomCard key={item.id} item={item} />)}
+          {data.length ? data.map(item =>  <CustomCard key={item.id} item={item} />) : <p className='text-[30px] font-semibold text-center tracking-normal'>No Products!</p>}
         </div>
     </div>
   )

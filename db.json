@@ -1,32 +1,3 @@
 {
-  "products": [
-    {
-      "id": "1",
-      "title": "Banan",
-      "price": 10.99,
-      "quantity": 10,
-      "description": "This is product 1."
-    },
-    {
-      "id": "3",
-      "title": "Anor",
-      "price": 10.99,
-      "quantity": 10,
-      "description": "This is product 1."
-    },
-    {
-      "id": "4",
-      "title": "Hurmo",
-      "price": 10.99,
-      "quantity": 10,
-      "description": "This is product 1."
-    },
-    {
-      "id": "5",
-      "title": "Olcha",
-      "price": 10.99,
-      "quantity": 10,
-      "description": "This is product 1."
-    }
-  ]
+  "products": []
 }
